@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">  
 <admarkt:ad>  
-<admarkt:categoryID>892</admarkt:categoryID>
+<admarkt:categoryId>892</admarkt:categoryId>
 <admarkt:title>Charming Holiday Home in Nijverdal with Jacuzzi</admarkt:title>  
-<admarkt:description>  
-You will find this luxurious holiday home for 8 people near the Sallandse Heuvelrug, in the beautiful Nijverdal. With spacious bedrooms, trendy bathrooms and a fully equipped open plan kitchen, you'll have everything at your disposal for a wonderful holiday with family or friends. The house is ideal for families with children (both young and old).  
+<admarkt:description><![CDATA[You will find this luxurious holiday home for 8 people near the Sallandse Heuvelrug, in the beautiful Nijverdal. With spacious bedrooms, trendy bathrooms and a fully equipped open plan kitchen, you'll have everything at your disposal for a wonderful holiday with family or friends. The house is ideal for families with children (both young and old).  
   
 Nijverdal is located at the foot of the Sallandse Heuvelrug, on the border of Twente and Salland. To the west and southwest of Nijverdal, you'll find the Nijverdalse Berg and Noetselerberg. In short, a wonderful place for nature lovers and perfect for cycling and walking tours. Nearby, you will also find Adventure Park Hellendoorn.   
   
 The house is surrounded by a spacious garden with a luxurious lounge set and a shared playground. A beautiful authentic farmhouse, where you completely relax but also enjoy many activities.  
  
-The beautiful farm of the owner is just a stone's throw away; you are welcome anytime.     
-</admarkt:description>  
+The beautiful farm of the owner is just a stone's throw away; you are welcome anytime.]]></admarkt:description>  
 <admarkt:url>https://www.belvilla.com/nl/100026509/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:url>  
 <admarkt:vanityUrl>https://www.belvilla.nl/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:vanityUrl>  
 <admarkt:price>20400</admarkt:price>  
-<admarkt:originalPrice>29500</admarkt:originalPrice>  
 <admarkt:priceType>FIXED_PRICE</admarkt:priceType>  
 <admarkt:phoneNumber>31882021247</admarkt:phoneNumber>  
 <admarkt:emailAdvertiser>TRUE</admarkt:emailAdvertiser>  
@@ -63,6 +60,5 @@ The beautiful farm of the owner is just a stone's throw away; you are welcome an
 <admarkt:attributeValue>8790,8793,8794,8797,8798,8799,8800,8801</admarkt:attributeValue>  
 </admarkt:attribute>   
 </admarkt:attributes>    
-<admarkt:brand>Belvilla by Oyo</admarkt:brand>       
 </admarkt:ad>  
 </admarkt:ads> 
