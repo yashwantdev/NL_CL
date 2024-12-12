@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">  
 <admarkt:ad>  
-<admarkt:categoryId>892</admarkt:categoryId>
+<admarkt:vendorId>100026509</admarkt:vendorId>	
 <admarkt:title>Charmant vakantiehuis in Nijverdal met jacuzzi</admarkt:title>  
 <admarkt:description><![CDATA[Vlakbij de Sallandse Heuvelrug, in het prachtige Nijverdal, vindt u dit luxe vakantiehuis voor 8 personen. Met ruime slaapkamers, trendy badkamers en een volledig ingerichte open keuken heb je alles tot je beschikking voor een heerlijke vakantie met familie of vrienden. Het huis is ideaal voor gezinnen met kinderen (zowel jong als oud).  
   
@@ -9,7 +9,8 @@ Nijverdal ligt aan de voet van de Sallandse Heuvelrug, op de grens van Twente en
   
 De woning is omgeven door een ruime tuin met een luxe loungeset en een gemeenschappelijke speeltuin. Een prachtige authentieke boerderij, waar u helemaal tot rust komt maar ook kunt genieten van vele activiteiten.  
  
-Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd welkom.]]></admarkt:description>  
+Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd welkom.]]></admarkt:description> 
+<admarkt:categoryId>892</admarkt:categoryId> 
 <admarkt:url>https://www.belvilla.com/nl/100026509/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:url>  
 <admarkt:vanityUrl>https://www.belvilla.nl/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:vanityUrl>  
 <admarkt:price>20400</admarkt:price>  
