@@ -2,21 +2,21 @@
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">  
 <admarkt:ad>  
 <admarkt:categoryId>892</admarkt:categoryId>
-<admarkt:title>Charming Holiday Home in Nijverdal with Jacuzzi</admarkt:title>  
-<admarkt:description><![CDATA[You will find this luxurious holiday home for 8 people near the Sallandse Heuvelrug, in the beautiful Nijverdal. With spacious bedrooms, trendy bathrooms and a fully equipped open plan kitchen, you'll have everything at your disposal for a wonderful holiday with family or friends. The house is ideal for families with children (both young and old).  
+<admarkt:title>Charmant vakantiehuis in Nijverdal met jacuzzi</admarkt:title>  
+<admarkt:description><![CDATA[Vlakbij de Sallandse Heuvelrug, in het prachtige Nijverdal, vindt u dit luxe vakantiehuis voor 8 personen. Met ruime slaapkamers, trendy badkamers en een volledig ingerichte open keuken heb je alles tot je beschikking voor een heerlijke vakantie met familie of vrienden. Het huis is ideaal voor gezinnen met kinderen (zowel jong als oud).  
   
-Nijverdal is located at the foot of the Sallandse Heuvelrug, on the border of Twente and Salland. To the west and southwest of Nijverdal, you'll find the Nijverdalse Berg and Noetselerberg. In short, a wonderful place for nature lovers and perfect for cycling and walking tours. Nearby, you will also find Adventure Park Hellendoorn.   
+Nijverdal ligt aan de voet van de Sallandse Heuvelrug, op de grens van Twente en Salland. Ten westen en zuidwesten van Nijverdal vind je de Nijverdalse Berg en de Noetselerberg. Kortom een heerlijke plek voor natuurliefhebbers en perfect voor fiets- en wandeltochten. In de buurt vindt u ook Avonturenpark Hellendoorn.   
   
-The house is surrounded by a spacious garden with a luxurious lounge set and a shared playground. A beautiful authentic farmhouse, where you completely relax but also enjoy many activities.  
+De woning is omgeven door een ruime tuin met een luxe loungeset en een gemeenschappelijke speeltuin. Een prachtige authentieke boerderij, waar u helemaal tot rust komt maar ook kunt genieten van vele activiteiten.  
  
-The beautiful farm of the owner is just a stone's throw away; you are welcome anytime.]]></admarkt:description>  
+Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd welkom.]]></admarkt:description>  
 <admarkt:url>https://www.belvilla.com/nl/100026509/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:url>  
 <admarkt:vanityUrl>https://www.belvilla.nl/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:vanityUrl>  
 <admarkt:price>20400</admarkt:price>  
 <admarkt:priceType>FIXED_PRICE</admarkt:priceType>  
 <admarkt:phoneNumber>31882021247</admarkt:phoneNumber>  
-<admarkt:emailAdvertiser>TRUE</admarkt:emailAdvertiser>  
-<admarkt:sellerName>Belvilla By Oyo</admarkt:sellerName>  
+<admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>  
+<admarkt:sellerName>Belvilla Door Oyo</admarkt:sellerName>  
 <admarkt:status>ACTIVE</admarkt:status>  
 <admarkt:media>  
 <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172532685208.jpg"/>  
@@ -33,23 +33,23 @@ The beautiful farm of the owner is just a stone's throw away; you are welcome an
 <admarkt:attributes>  
 <admarkt:attribute>  
 <admarkt:attributeName>Regio</admarkt:attributeName>  
-<admarkt:attributeValue>4557</admarkt:attributeValue>  
+<admarkt:attributeValue>Overijssel</admarkt:attributeValue>  
 </admarkt:attribute>  
 <admarkt:attribute>  
 <admarkt:attributeName>Type</admarkt:attributeName>  
-<admarkt:attributeValue>7473</admarkt:attributeValue>  
+<admarkt:attributeValue>Boerderij of Cottage</admarkt:attributeValue>  
 </admarkt:attribute>  
 <admarkt:attribute>  
 <admarkt:attributeName>Ligging</admarkt:attributeName>   
-<admarkt:attributeValue>4610</admarkt:attributeValue>  
+<admarkt:attributeValue>Recreatiepark</admarkt:attributeValue>  
 </admarkt:attribute>  
 <admarkt:attribute>  
 <admarkt:attributeName>Omgeving</admarkt:attributeName>  
-<admarkt:attributeValue>8788</admarkt:attributeValue>   
+<admarkt:attributeValue>In bos</admarkt:attributeValue>   
 </admarkt:attribute>  
 <admarkt:attribute>  
 <admarkt:attributeName>Aantal slaapkamers</admarkt:attributeName>  
-<admarkt:attributeValue>7470</admarkt:attributeValue>  
+<admarkt:attributeValue>4 of meer slaapkamers</admarkt:attributeValue>  
 </admarkt:attribute>  
 <admarkt:attribute>   
 <admarkt:attributeName>Aantal personen</admarkt:attributeName>  
@@ -57,7 +57,14 @@ The beautiful farm of the owner is just a stone's throw away; you are welcome an
 </admarkt:attribute>  
 <admarkt:attribute>  
 <admarkt:attributeName>Extra's</admarkt:attributeName>   
-<admarkt:attributeValue>8790,8793,8794,8797,8798,8799,8800,8801</admarkt:attributeValue>  
+<admarkt:attributeValue>Afwasmachine</admarkt:attributeValue>
+<admarkt:attributeValue>Internet</admarkt:attributeValue>
+<admarkt:attributeValue>Kinderbed</admarkt:attributeValue>
+<admarkt:attributeValue>Sauna</admarkt:attributeValue>
+<admarkt:attributeValue>Speeltuin</admarkt:attributeValue>
+<admarkt:attributeValue>Tuin</admarkt:attributeValue>
+<admarkt:attributeValue>Tv</admarkt:attributeValue>
+<admarkt:attributeValue>Wasmachine</admarkt:attributeValue>  
 </admarkt:attribute>   
 </admarkt:attributes>    
 </admarkt:ad>  
