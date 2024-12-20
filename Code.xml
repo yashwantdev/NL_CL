@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">  
+<admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
 <admarkt:ad>  
 <admarkt:vendorId>NL-7441-02</admarkt:vendorId>	
 <admarkt:title>Charmant vakantiehuis in Nijverdal met jacuzzi</admarkt:title>  
-<admarkt:description><![CDATA[Vlakbij de Sallandse Heuvelrug, in het prachtige Nijverdal, vindt u dit luxe vakantiehuis voor 8 personen. Met ruime slaapkamers, trendy badkamers en een volledig ingerichte open keuken heb je alles tot je beschikking voor een heerlijke vakantie met familie of vrienden. Het huis is ideaal voor gezinnen met kinderen (zowel jong als oud).  
-  
-Nijverdal ligt aan de voet van de Sallandse Heuvelrug, op de grens van Twente en Salland. Ten westen en zuidwesten van Nijverdal vind je de Nijverdalse Berg en de Noetselerberg. Kortom een heerlijke plek voor natuurliefhebbers en perfect voor fiets- en wandeltochten. In de buurt vindt u ook Avonturenpark Hellendoorn.   
-  
-De woning is omgeven door een ruime tuin met een luxe loungeset en een gemeenschappelijke speeltuin. Een prachtige authentieke boerderij, waar u helemaal tot rust komt maar ook kunt genieten van vele activiteiten.  
- 
+<admarkt:description><![CDATA[Vlakbij de Sallandse Heuvelrug, in het prachtige Nijverdal, vindt u dit luxe vakantiehuis voor 8 personen. Met ruime slaapkamers, trendy badkamers en een volledig ingerichte open keuken heb je alles tot je beschikking voor een heerlijke vakantie met familie of vrienden. Het huis is ideaal voor gezinnen met kinderen (zowel jong als oud).
+       
+Nijverdal ligt aan de voet van de Sallandse Heuvelrug, op de grens van Twente en Salland. Ten westen en zuidwesten van Nijverdal vind je de Nijverdalse Berg en de Noetselerberg. Kortom een heerlijke plek voor natuurliefhebbers en perfect voor fiets- en wandeltochten. In de buurt vindt u ook Avonturenpark Hellendoorn.
+        
+De woning is omgeven door een ruime tuin met een luxe loungeset en een gemeenschappelijke speeltuin. Een prachtige authentieke boerderij, waar u helemaal tot rust komt maar ook kunt genieten van vele activiteiten.
+        
 Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd welkom.]]></admarkt:description> 
 <admarkt:categoryId>892</admarkt:categoryId> 
 <admarkt:url>https://www.belvilla.com/nl/100026509/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:url>  
@@ -20,11 +20,31 @@ Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd
 <admarkt:sellerName>Belvilla By Oyo</admarkt:sellerName>  
 <admarkt:status>ACTIVE</admarkt:status>  
 <admarkt:media>  
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172532685208.jpg"/>  
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247743418594.jpg"/>  
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247603118739.jpg"/>  
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247625112432.jpg"/>  
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021041277983490364.jpg"/>  
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172532685208.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172533880817.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172534091475.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172535885911.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172639113645.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021041277983490364.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021041277984449330.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247658922114.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247666741385.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247673045687.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247602573545.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247603118739.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247624362655.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247646291472.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247651057334.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247687612160.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172549035964.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021041277756617464.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247625112432.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247635979909.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247685747954.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247704389785.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247747518709.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021247733225384.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100026509/large/384644_lsr_2021021172539807439.jpg"/>
 </admarkt:media>  
 <admarkt:budget>  
 <admarkt:cpc/>  
@@ -69,4 +89,79 @@ Op steenworp afstand ligt de prachtige boerderij van de eigenaar; Je bent altijd
 </admarkt:attribute>   
 </admarkt:attributes>    
 </admarkt:ad>  
-</admarkt:ads> 
+<admarkt:ad>  
+<admarkt:vendorId>NL-4504-50</admarkt:vendorId>	
+<admarkt:title>Moderne lodge met combimagnetron, strand op 500 m</admarkt:title>
+<admarkt:description><![CDATA[Het luxe en moderne Beach Resort Nieuwvliet Bad is nog in aanbouw.
+
+Onlangs is deze vrijstaande en gelijkvloerse 6-pers. lodge aan het aanbod toegevoegd.
+
+De lodges zijn modern, comfortabel en compleet ingericht. In de woonkamer vindt u er een smart-TV. U beschikt over een open keuken die van alle gemakken is voorzien. Zo is er een combimagnetron, afwasmachine en koelkast met vriesvak. Er zijn drie slaapkamers. Alle bedden, behalve het stapelbed, zijn van het type 1-pers. boxspring, al dan niet in een 2-pers. opstelling. De badkamer heeft een inloopdouche. U heeft de beschikking over Ã©Ã©n apart toilet. Er is een tuin met terras en tuinmeubilair. Parkeren kunt u nabij de lodge en u maakt gratis gebruik van WiFi.
+
+Op Beach Resort Nieuwvliet Bad zijn diverse accommodaties te huur van vier tot zestien personen.]]>
+</admarkt:description>
+<admarkt:categoryId>892</admarkt:categoryId> 
+<admarkt:url>https://www.belvilla.nl/nl/100025637/?utm_source=marktplaats&amp;utm_medium=cpc</admarkt:url>
+<admarkt:vanityUrl>https://www.belvilla.nl/?utm_source=Marktplaats&amp;utm_medium=cpc</admarkt:vanityUrl>
+<admarkt:price>21613</admarkt:price>
+<admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+<admarkt:phoneNumber>31882021247</admarkt:phoneNumber>
+<admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+<admarkt:sellerName>Belvilla By Oyo</admarkt:sellerName>
+<admarkt:status>ACTIVE</admarkt:status>
+<admarkt:media>
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855839447836.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855796116960.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855795848751.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855821198017.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855821899008.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855821739188.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855833235290.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855853427658.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2023022855843078317.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020113056546187.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020113057724344.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020113058060325.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020113058637443.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020113058925241.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2021050455382762732.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2021050455386154292.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2021050455389805714.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031697106617.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031697376987.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031697683490.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031698419715.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031698945707.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031699102859.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_2020031699602319.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100025637/large/365469_lsr_20200316100427242.jpg"/>
+</admarkt:media><admarkt:budget>  
+<admarkt:cpc/>  
+<admarkt:autobid>false</admarkt:autobid>  
+<admarkt:dailyBudget>5000</admarkt:dailyBudget>  
+</admarkt:budget>  
+<admarkt:attributes>  
+<admarkt:attribute>  
+<admarkt:attributeName>Regio</admarkt:attributeName>  
+<admarkt:attributeValue>Zeeland</admarkt:attributeValue>  
+</admarkt:attribute>  
+<admarkt:attribute>  
+<admarkt:attributeName>Ligging</admarkt:attributeName>
+<admarkt:attributeValue>Overige</admarkt:attributeValue>  
+</admarkt:attribute>
+<admarkt:attribute>  
+<admarkt:attributeName>Aantal slaapkamers</admarkt:attributeName>  
+<admarkt:attributeValue>3</admarkt:attributeValue>  
+</admarkt:attribute>
+<admarkt:attribute>   
+<admarkt:attributeName>Aantal personen</admarkt:attributeName>  
+<admarkt:attributeValue>6</admarkt:attributeValue>  
+</admarkt:attribute>
+<admarkt:attribute>  
+<admarkt:attributeName>Extra's</admarkt:attributeName>   
+<admarkt:attributeValue>Internet</admarkt:attributeValue>
+<admarkt:attributeValue>AC</admarkt:attributeValue>
+<admarkt:attributeValue>TV</admarkt:attributeValue></admarkt:attribute>   
+</admarkt:attributes>    
+</admarkt:ad>
+</admarkt:ads>
