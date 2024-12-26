@@ -190,7 +190,11 @@ Op Beach Resort Nieuwvliet Bad zijn diverse accommodaties te huur van vier tot z
 <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_20151006289865744903.jpg"/> 
 <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_201103316814165307.jpg"/> 
 <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_201103316814439881.jpg"/> 
-<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_201103316813864546.jpg"/> <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_20151006289864422364.jpg"/> <admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_20151006289865360274.jpg"/></admarkt:media><admarkt:budget>  
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_201103316813864546.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_20151006289864422364.jpg"/> 
+<admarkt:image url="https://images.oyoroomscdn.com/uploads/hotel_image/100024743/large/88184_lsr_20151006289865360274.jpg"/>
+</admarkt:media>
+<admarkt:budget>  
 <admarkt:cpc/>  
 <admarkt:autobid>false</admarkt:autobid>  
 <admarkt:dailyBudget>5000</admarkt:dailyBudget>  
